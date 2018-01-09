@@ -1,4 +1,4 @@
-# wpicoursework
+# WPI Course Work
 
 This contains all of the object oriented design projects completed in the course CS 210X at Worcester Polytechnic Institute.
 All code was worked on by Paul Mara and Kepei Lei.
